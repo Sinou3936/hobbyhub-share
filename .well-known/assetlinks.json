@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "kr.hobbyhub.app",
+    "sha256_cert_fingerprints": [
+      "05:DF:3B:A8:5F:55:79:AA:95:97:A8:BD:85:17:0F:86:83:40:5C:54:65:C6:88:CA:20:70:DD:3C:07:D3:1B:D1"
+    ]
+  }
+}]
